@@ -1,0 +1,361 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fran//MALAGA CF S.A.D. Calendario//ES
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j1@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20260920T120000
+DTEND;TZID=Europe/Madrid:20260920T140000
+SUMMARY:MALAGA CF S.A.D. vs U.D. ALMERIA S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j2@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20260927T120000
+DTEND;TZID=Europe/Madrid:20260927T140000
+SUMMARY:C.D. XEREZ FÉMINAS F.C. vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j3@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20261004T120000
+DTEND;TZID=Europe/Madrid:20261004T140000
+SUMMARY:MALAGA CF S.A.D. vs SECCIÓN DEPORTIVA FUNDACIÓN MCF
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j4@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20261018T120000
+DTEND;TZID=Europe/Madrid:20261018T140000
+SUMMARY:ARENAS DE ARMILLA CULTURA Y DEPORTE C.F. "A" vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j5@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20261025T120000
+DTEND;TZID=Europe/Madrid:20261025T140000
+SUMMARY:MALAGA CF S.A.D. vs C.D. SPORTING CLUB
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j6@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20261108T120000
+DTEND;TZID=Europe/Madrid:20261108T140000
+SUMMARY:CADIZ C.F., S.A.D. vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j7@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20261115T120000
+DTEND;TZID=Europe/Madrid:20261115T140000
+SUMMARY:MALAGA CF S.A.D. vs SAN ROQUE BALOMPIE
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j8@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20261122T120000
+DTEND;TZID=Europe/Madrid:20261122T140000
+SUMMARY:SEVILLA F.C., S.A.D. vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j9@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20261129T120000
+DTEND;TZID=Europe/Madrid:20261129T140000
+SUMMARY:MALAGA CF S.A.D. vs CORDOBA C.F.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j10@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20261206T120000
+DTEND;TZID=Europe/Madrid:20261206T140000
+SUMMARY:SECCION DEPORTIVA FUNDACION REAL BETIS BALOMPIE vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j11@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20261220T120000
+DTEND;TZID=Europe/Madrid:20261220T140000
+SUMMARY:CLUB DE FÚTBOL FEMENINO MVRGI vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j12@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270110T120000
+DTEND;TZID=Europe/Madrid:20270110T140000
+SUMMARY:MALAGA CF S.A.D. vs GRANADA C.F. S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j13@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270117T120000
+DTEND;TZID=Europe/Madrid:20270117T140000
+SUMMARY:REAL JAEN C.F., SAD vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j14@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270124T120000
+DTEND;TZID=Europe/Madrid:20270124T140000
+SUMMARY:U.D. ALMERIA S.A.D. vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j15@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270131T120000
+DTEND;TZID=Europe/Madrid:20270131T140000
+SUMMARY:MALAGA CF S.A.D. vs C.D. XEREZ FÉMINAS F.C.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j16@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270214T120000
+DTEND;TZID=Europe/Madrid:20270214T140000
+SUMMARY:SECCIÓN DEPORTIVA FUNDACIÓN MCF vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j17@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270228T120000
+DTEND;TZID=Europe/Madrid:20270228T140000
+SUMMARY:MALAGA CF S.A.D. vs ARENAS DE ARMILLA CULTURA Y DEPORTE C.F. "A"
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j18@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270307T120000
+DTEND;TZID=Europe/Madrid:20270307T140000
+SUMMARY:C.D. SPORTING CLUB vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j19@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270314T120000
+DTEND;TZID=Europe/Madrid:20270314T140000
+SUMMARY:MALAGA CF S.A.D. vs CADIZ C.F., S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j20@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270404T120000
+DTEND;TZID=Europe/Madrid:20270404T140000
+SUMMARY:SAN ROQUE BALOMPIE vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j21@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270411T120000
+DTEND;TZID=Europe/Madrid:20270411T140000
+SUMMARY:MALAGA CF S.A.D. vs SEVILLA F.C., S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j22@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270418T120000
+DTEND;TZID=Europe/Madrid:20270418T140000
+SUMMARY:CORDOBA C.F. vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j23@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270425T120000
+DTEND;TZID=Europe/Madrid:20270425T140000
+SUMMARY:MALAGA CF S.A.D. vs SECCION DEPORTIVA FUNDACION REAL BETIS BALOMPIE
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j24@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270502T120000
+DTEND;TZID=Europe/Madrid:20270502T140000
+SUMMARY:MALAGA CF S.A.D. vs CLUB DE FÚTBOL FEMENINO MVRGI
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j25@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270509T120000
+DTEND;TZID=Europe/Madrid:20270509T140000
+SUMMARY:GRANADA C.F. S.A.D. vs MALAGA CF S.A.D.
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:malagacfs.a.d.-j26@rfaf.local
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=Europe/Madrid:20270516T120000
+DTEND;TZID=Europe/Madrid:20270516T140000
+SUMMARY:MALAGA CF S.A.D. vs REAL JAEN C.F., SAD
+DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
