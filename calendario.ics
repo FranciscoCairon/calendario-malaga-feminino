@@ -23,26 +23,26 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:malagacfs.a.d.-j1@rfaf.local
 DTSTAMP:20260827T000000Z
-DTSTART;TZID=Europe/Madrid:20260920T110000
-DTEND;TZID=Europe/Madrid:20260920T130000
+DTSTART;TZID=Europe/Madrid:20260920T120000
+DTEND;TZID=Europe/Madrid:20260920T140000
 SUMMARY:MALAGA CF S.A.D. vs U.D. ALMERIA S.A.D.
 DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Partido en unas horas.
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:malagacfs.a.d.-j2@rfaf.local
 DTSTAMP:20260827T000000Z
-DTSTART;TZID=Europe/Madrid:20260927T210000
-DTEND;TZID=Europe/Madrid:20260927T230000
+DTSTART;TZID=Europe/Madrid:20260927T120000
+DTEND;TZID=Europe/Madrid:20260927T140000
 SUMMARY:C.D. XEREZ FÉMINAS F.C. vs MALAGA CF S.A.D.
 DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Partido en unas horas.
+DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
