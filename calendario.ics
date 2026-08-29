@@ -23,13 +23,13 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:malagacfs.a.d.-j1@rfaf.local
 DTSTAMP:20260827T000000Z
-DTSTART;TZID=Europe/Madrid:20260920T120000
-DTEND;TZID=Europe/Madrid:20260920T140000
+DTSTART;TZID=Europe/Madrid:20260920T160000
+DTEND;TZID=Europe/Madrid:20260920T180000
 SUMMARY:MALAGA CF S.A.D. vs U.D. ALMERIA S.A.D.
 DESCRIPTION:Partido de 1a Andaluza Femenina Cadete, Grupo Unico
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Hoy hay partido: comprueba la hora real antes de salir (el evento esta puesto a las 12:00 por defecto).
+DESCRIPTION:Partido en unas horas.
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
